@@ -46,14 +46,6 @@ Ferramenta para filtrar e procurar em arquivos de log.
 ## Como rodar
 
 ```bash
-# Entra na pasta
-cd LogParser
-
-# Ativa o ambiente virtual já configurado
-source venv/bin/activate
-
-# Instala as dependencias (só precisa fazer uma vez)
-pip install -r requirements.txt
 
 # Depois é só rodar qualquer um dos scripts
 python HashCalculator.py .
